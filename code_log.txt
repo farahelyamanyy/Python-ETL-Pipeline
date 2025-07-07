@@ -1,0 +1,9 @@
+Jul-25-08-00:17:11 , ETL started
+Jul-25-08-00:17:11 , Extraction phase started
+Jul-25-08-00:17:12 , Extraction phase ended
+Jul-25-08-00:17:12 , Transformation phase started
+Jul-25-08-00:17:12 , Transformation phase ended
+Jul-25-08-00:17:12 , Load phase started
+Jul-25-08-00:17:12 , Data saved to CSV file
+Jul-25-08-00:17:13 , Data loaded to Database as table. Running the query
+Jul-25-08-00:17:13 , Process Completed
