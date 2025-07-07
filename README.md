@@ -62,6 +62,3 @@ The pipeline will:
 This project was completed as part of the  
 **Python Project for Data Engineering – IBM (Coursera)**  
 Link: [https://www.coursera.org/learn/python-project-for-data-engineering](https://www.coursera.org/learn/python-project-for-data-engineering)
-
-
-```
